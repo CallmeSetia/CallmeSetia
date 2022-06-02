@@ -1,10 +1,10 @@
-<h2 align="center"> Hi 👋 , I'm Israt Jahan Khan <br/></h2> 
-<h3 align="center">Also known as "Ipty" to other people. <br> <br>
-  <a href="https://github.com/IsratIJK" target="_blank">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/IsratIJK?label=Github%20followers&style=for-the-badge">
+<h2 align="center"> Hi 👋 , I'm Dwi <b>Setia</b> Fardhana <br/></h2> 
+<h3 align="center">You can call me <b>Setia</b> <br> <br>
+  <a href="https://github.com/CallmeSetia" target="_blank">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/CallmeSetia?label=Github%20followers&style=for-the-badge">
   </a> <br> <br>
-  <a href="https://github.com/IsratIJK" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=IsratIJK&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
+  <a href="https://github.com/CallmeSetia" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=CallmeSetia&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
   </a>
   </h3>   
                              
@@ -13,7 +13,7 @@
   <summary>GitHub Trophies 🏆</summary>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=IsratIJK&theme=gruvbox"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=CallmeSetia&theme=gruvbox"/>
   </a>
 </p>
 </details>
@@ -24,9 +24,9 @@
 <details>
    <summary>Github Stats of me:</summary>
 <div align="center">
-<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=IsratIJK&show_icons=true&count_private=true&theme=radical" width="350" height="250" ></a>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=CallmeSetia&show_icons=true&count_private=true&theme=radical" width="350" height="250" ></a>
   <br>
-<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsratIJK&layout=compact&theme=radical" width="350" height="250" ></a>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CallmeSetia&layout=compact&theme=radical" width="350" height="250" ></a>
 
 </div>
 </details> 
